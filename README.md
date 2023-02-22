@@ -5,7 +5,7 @@ This is your reminder that google is your friend, and you can find answers to yo
 
 This repo will guide you in the process with information and how-to.
 
-This repo will be shaped as your future site's structure, but instead of the proper extension, the files will be named with the extension `.md` (markdown) aand will help you create your site with a bit of css and php.
+This repo will be shaped as your future site's structure, but instead of the proper extension, the files will be named with the extension `.md` (markdown) and will help you create your site with a bit of css and php.
 
 You may self-host this repo, or use Github Pages to host it.
 
